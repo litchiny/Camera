@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seekbar_background">#40000000</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#00ff00</color>
+    <color name="common_google_signin_btn_text_dark_pressed">#009900</color>
+    <color name="common_google_signin_btn_text_dark_focused">#008800</color>
+    <color name="common_google_signin_btn_text_dark_default">#006600</color>
+    <color name="common_google_signin_btn_text_light_disabled">#0000FF</color>
+    <color name="common_google_signin_btn_text_light_pressed">#000099</color>
+    <color name="common_google_signin_btn_text_light_focused">#000022</color>
+    <color name="common_google_signin_btn_text_light_default">#000044</color>
+    <color name="common_plus_signin_btn_text_dark_disabled">#FF0000</color>
+    <color name="common_plus_signin_btn_text_dark_pressed">#990000</color>
+    <color name="common_plus_signin_btn_text_dark_focused">#440000</color>
+    <color name="common_plus_signin_btn_text_dark_default">#330000</color>
+    <color name="common_plus_signin_btn_text_light_disabled">#FFFF00</color>
+    <color name="common_plus_signin_btn_text_light_pressed">#FF9900</color>
+    <color name="common_plus_signin_btn_text_light_focused">#FF6600</color>
+    <color name="common_plus_signin_btn_text_light_default">#FF3300</color>
+    <color name="wallet_bright_foreground_disabled_holo_light">#FF00FF</color>
+    <color name="wallet_bright_foreground_holo_light">#FF0099</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#00FFFF</color>
+    <color name="wallet_dim_foreground_holo_dark">#00FF99</color>
+    <color name="place_autocomplete_search_text">#00FF99</color>
+    <color name="place_autocomplete_search_hint">#00FF88</color>
+    <color name="place_autocomplete_separator">#008888</color>
+    <color name="place_autocomplete_prediction_primary_text">#5588FF</color>
+    <color name="place_autocomplete_prediction_secondary_text">#9999EE</color>
+
+    <color name="color1">#11000000</color>
+
+</resources>
